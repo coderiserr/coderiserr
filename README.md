@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 My name Abhishek kumar This is my Profile!</h2>
+<h2 align="center">Hello 👋 My name is Abhishek kumar This is my Profile!</h2>
 
 ###
 
